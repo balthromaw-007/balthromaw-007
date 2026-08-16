@@ -8,5 +8,5 @@ Soy estudiante de Ciencias de la Computación en la UNAM. Me apasiona la program
 
 ### 🛠️ Tecnologías y Herramientas
 - **Lenguajes:** Java (Avanzado), SQL.
-- **IDE:** Eclipse.
-- **Otros:** Git, Manejo de Archivos, POO.
+- **IDE:** Eclipse, VS Studio.
+- **Otros:** Git, Manejo de Archivos, POO, Estructuras de datos.
